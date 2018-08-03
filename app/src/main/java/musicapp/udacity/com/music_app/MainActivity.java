@@ -12,7 +12,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    ImageView playButton = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
